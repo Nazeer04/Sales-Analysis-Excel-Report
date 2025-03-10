@@ -1,8 +1,9 @@
 # Sales-Analysis-Excel-Report
 
 **Project Objective:**  
-Develop a [customer performance report](https://github.com/Nazeer04/Sales-Analysis-Excel-Report/blob/main/Customer%20Performance%20Report.pdf)  to analyze sales trends and customer contributions.  
-Conduct a comprehensive comparison between [market performance vs sales targets](https://github.com/Nazeer04/Sales-Analysis-Excel-Report/blob/main/Market%20Performance%20vs%20Target.png) to identify gaps and opportunities.
+
+- Develop a [customer performance report](https://github.com/Nazeer04/Sales-Analysis-Excel-Report/blob/main/Customer%20Performance%20Report.pdf)  to analyze sales trends and customer contributions.  
+- Conduct a comprehensive comparison between [market performance vs sales targets](https://github.com/Nazeer04/Sales-Analysis-Excel-Report/blob/main/Market%20Performance%20vs%20Target.png) to identify gaps and opportunities.
 
 **Purpose of Sales Analytics** : Empower businesses with data-driven insights to monitor, evaluate, and optimize their sales activities and overall performance.
 
@@ -13,6 +14,7 @@ Conduct a comprehensive comparison between [market performance vs sales targets]
 - Discover expansion opportunities by analyzing high-growth markets.
 
 **Key Insights from Sales Analytics at AtliQ Hardwares**  
+
 **Overview**  
 These insights provide a snapshot of AtliQ Hardwares' sales performance over the years, highlighting top performers, growth trends, market-specific challenges, and opportunities for improvement. Analyzing these insights can help the company make informed decisions to enhance its sales strategy and overall performance.  
 
@@ -33,8 +35,28 @@ These insights provide a snapshot of AtliQ Hardwares' sales performance over the
 **Year-over-Year Growth**:
 - Most customers saw significant growth in 2021, indicating post-pandemic recovery and market expansion.  
 
-**Market Performance vs. Sales Targets (2019-2021)**:
-Target vs. Actual: Countries like Australia, Canada, and South Korea failed to meet their 2021 net sales targets, emphasizing the need for strategic adjustments.
-Negative Variances:
-India fell short by -$9.55M, and the USA by -$10.24M in 2021, requiring a deeper analysis of market challenges.
-Overall Impact: Despite setbacks, the company met 90.83% of its 2021 target, demonstrating resilience in a shifting market landscape.
+**Market Performance vs. Sales Targets (2019-2021)**:  
+
+**Target vs. Actual**:
+- Countries like Australia, Canada, and South Korea failed to meet their 2021 net sales targets, emphasizing the need for strategic adjustments.
+
+**Negative Variances**:
+- India fell short by -$9.55M, and the USA by -$10.24M in 2021, requiring a deeper analysis of market challenges.
+
+**Overall Impact**: 
+- Despite setbacks, the company met 90.83% of its 2021 target, demonstrating resilience in a shifting market landscape.
+
+
+**Technical & Soft Skills**:  
+
+**Technical Skills**:  
+✔ **ETL Processes**: Extract, Transform, Load methodology for efficient data handling.  
+✔ **Data Modeling**: Establishing relationships using Power Pivot for better data organization.  
+✔ **Power Query**: Generating a date table and integrating supplementary data.  
+✔ **DAX Functions**: Creating calculated columns for deeper insights and performance metrics.  
+
+**Soft Skills**:  
+✔ Strong understanding of sales reports and business needs.  
+✔ Designing user-friendly, data-driven reports with a focus on clarity.  
+✔ Performance optimization for faster and more efficient reporting.  
+✔ Developing a structured approach to report creation for scalability.  
