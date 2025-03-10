@@ -3,6 +3,6 @@
 **Objective:**  
 Develop a customer performance report## Project Overview
 
-[Customer Performance Report](https://github.com/your-repo-name/assets/customer-performance-report.png)
+[Customer Performance Report](https://github.com/Sales-Analysis-Excel-Report/Customer Performance Report.pdf)
  to analyze sales trends and customer contributions. 
 Conduct a comprehensive comparison between market performance and sales targets to identify gaps and opportunities.
